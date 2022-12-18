@@ -1,5 +1,11 @@
 # AICUP-crops-classification
 
+執行環境<br>
+OS:Ubuntu 20.04.4 LTS<br>
+CPU:Intel(R) Xeon(R) Gold 6154 CPU<br>
+GPU:Nvidia Tesla V100 * 8<br>
+Python:Python 3.8.13<br><br>
+
 在執行程式之前需要安裝相關套件<br>
 pip install requirements.txt<br><br>
 
